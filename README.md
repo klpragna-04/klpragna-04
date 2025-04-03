@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Lakshmi Pragna Kollu</h1>
-<h3 align="center">A passionate Data Analyst and an aspiring Data Scientist with a knack for uncovering insights and telling stories through data. My journey in data science has taken me from predictive modeling to web development.</h3>
+<h3 align="center">A passionate Data Scientist and aspiring AI Engineer with a deep curiosity for uncovering patterns, extracting insights, and transforming data into compelling stories. My journey spans from predictive modeling to AI-driven solutions, blending analytical expertise with innovative problem-solving..</h3>
 
 - 🔭 I’m currently working on **Skin Cancer Detection using Deep Learning**
 
